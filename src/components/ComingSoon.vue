@@ -1,7 +1,7 @@
 <template>
   <div class="main-home">
     <div class="cover">
-      <img class="logo" src="../assets/logoo.png" />
+      <img class="logo" src="@/assets/logoo.png" />
     </div>
 
     <div class="cover">
@@ -14,19 +14,19 @@
 
     <div class="cover rows">
       <img
-        src="../assets/facebook.svg"
+        src="@/assets/facebook.svg"
         onclick="window.open('https://web.facebook.com/momifoundation')"
       />
       <img
-        src="../assets/instagram.svg"
+        src="@/assets/instagram.svg"
         onclick="window.open( 'https://www.instagram.com/momifoundation')"
       />
       <img
-        src="../assets/twitter.svg"
+        src="@/assets/twitter.svg"
         onclick="window.open('https://web.facebook.com/momifoundation')"
       />
       <img
-        src="../assets/link.svg"
+        src="@/assets/link.svg"
         onclick="window.open('https://www.linkedin.com/company/momi-foundation')"
       />
     </div>
